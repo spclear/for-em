@@ -1,0 +1,20 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "typescript",
+        "html"
+    ],
+    "eslint.options": {
+        "extensions": [
+            ".js",
+            ".ts",
+            "html"
+        ]
+    },
+    "editor.tabSize": 2,
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "files.eol": "\r\n"
+}
